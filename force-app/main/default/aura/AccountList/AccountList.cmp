@@ -1,4 +1,5 @@
 <aura:component controller="AccountController">
+    <aura:registerEvent name="accountsLoaded" type="c:AccountsLoaded"/>
     <aura:attribute name="accounts" type="Account[]"/>
     <ltng:require styles="/resource/leaflet/leaflet.css" scripts="/resource/leaflet/leaflet.js" afterScriptsLoaded="{!c.doInit}" />
     <ul>
@@ -6,4 +7,4 @@
     <c:AccountListItem account="{!account}"/>
     </aura:iteration>
     </ul>
-</aura:component>
+</aura:component> 
