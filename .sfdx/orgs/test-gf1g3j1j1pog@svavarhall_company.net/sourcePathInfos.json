@@ -32,28 +32,28 @@
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default",
             "isDirectory": true,
-            "size": 306,
-            "modifiedTime": 1502225942000,
-            "changeTime": 1502225942000,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 340,
+            "modifiedTime": 1502228514000,
+            "changeTime": 1502228514000,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2"
         }
     ],
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 170,
             "modifiedTime": 1502226326000,
             "changeTime": 1502226326000,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -830,7 +830,7 @@
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
             "size": 292,
-            "modifiedTime": 1502225080000,
+            "modifiedTime": 1502226782000,
             "changeTime": 1502225080000,
             "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
             "isMetadataFile": false,
@@ -866,14 +866,14 @@
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 182,
-            "modifiedTime": 1502226444000,
+            "modifiedTime": 1502226787000,
             "changeTime": 1502226444000,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -894,10 +894,10 @@
         {
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
-            "size": 91,
-            "modifiedTime": 1502225712000,
-            "changeTime": 1502225712000,
-            "contentHash": "14baa28d7d740e80c11f4d90a3c1393c1c758ca5",
+            "size": 92,
+            "modifiedTime": 1502226795000,
+            "changeTime": 1502226795000,
+            "contentHash": "77d801cb10931e3c8bb6e7af415338c8ec5f362d",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1035,183 +1035,222 @@
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountList",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1502226326000,
             "changeTime": 1502226326000,
-            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f"
+            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountListItem",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountListItem",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1502226199000,
             "changeTime": 1502226199000,
-            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7"
+            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 396,
-            "modifiedTime": 1502226362000,
+            "modifiedTime": 1502226757000,
             "changeTime": 1502226362000,
-            "contentHash": "1b91252886d2447a7b894a7b041830341f251951"
+            "contentHash": "1b91252886d2447a7b894a7b041830341f251951",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 243,
             "modifiedTime": 1502226326000,
             "changeTime": 1502226326000,
-            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c"
+            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 111,
-            "modifiedTime": 1502226379000,
+            "modifiedTime": 1502226766000,
             "changeTime": 1502226379000,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 255,
-            "modifiedTime": 1502226417000,
+            "modifiedTime": 1502226769000,
             "changeTime": 1502226417000,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1502226326000,
             "changeTime": 1502226326000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1502226326000,
             "changeTime": 1502226326000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 120,
-            "modifiedTime": 1502226249000,
+            "modifiedTime": 1502226749000,
             "changeTime": 1502226249000,
-            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 247,
             "modifiedTime": 1502226199000,
             "changeTime": 1502226199000,
-            "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0"
+            "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 170,
-            "modifiedTime": 1502226245000,
+            "modifiedTime": 1502226773000,
             "changeTime": 1502226245000,
-            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0"
+            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1502226199000,
             "changeTime": 1502226199000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1502226199000,
             "changeTime": 1502226199000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1502226199000,
             "changeTime": 1502226199000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1502228514000,
+            "changeTime": 1502228514000,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259"
+        }
+    ],
+    [
+        "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/staticresources/leaflet.resource",
+        {
+            "state": "u",
+            "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/staticresources/leaflet.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 480856,
+            "modifiedTime": 1502228514000,
+            "changeTime": 1502228514000,
+            "contentHash": "2e36ead355db885f91bc4ac6e7a7591a04dd469f"
+        }
+    ],
+    [
+        "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/svavarhall/Projects/Siminn/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1502228514000,
+            "changeTime": 1502228514000,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa"
         }
     ]
 ]
