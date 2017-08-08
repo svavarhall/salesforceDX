@@ -1,0 +1,5 @@
+# This folder contains only scratch org info, lets ignore
+.sfdx
+
+# This is for custom VsCode settings
+.vscode
